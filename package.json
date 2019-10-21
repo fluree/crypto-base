@@ -1,0 +1,11 @@
+{
+  "name": "fluree-cryptography-base",
+  "version": "0.1.1",
+  "description": "Base cryptography functions that are used in Fluree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fluree, PBC",
+  "license": "ISC"
+}
