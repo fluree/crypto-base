@@ -1,6 +1,6 @@
 {
   "name": "fluree-cryptography-base",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Base cryptography functions that are used in Fluree",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,10 @@
   "repository": {
     "type" : "git",
     "url" : "https://github.com/fluree/fluree-cryptography-base"
+  },
+  "dependencies": {
+    "sha3": "2.0.6",
+    "scrypt-js": "2.0.4"
   },
   "author": "Fluree, PBC",
   "license": "ISC"
